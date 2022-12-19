@@ -8,6 +8,10 @@ body{
     background: #191414;
 }
 
+#logo {
+    width: 75%;
+}
+
 .titulo {
     display: flex;
     justify-content: center;
@@ -80,7 +84,7 @@ body{
 }
 
 #registro {
-    font-size: 20px;
+    font-size: 25px;
     margin: 0px 0 15px 0;
 }
 
