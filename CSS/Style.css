@@ -42,7 +42,7 @@ body{
 }
 
 #datos {
-    border: solid 2px #1DB954;
+    border: solid 2px rgb(160, 160, 160);
     border-radius: 20px;
     width: 60%;
     padding: 10px;
@@ -50,6 +50,9 @@ body{
     box-shadow: 0px 0px 10px 1px rgb(0 0 0 / 30%);
 }
 
+#datos:hover {
+    border: #1DB954 solid 2px;
+}
 
 #boton-inicio:hover, #boton-registro:hover {
     color: white;
